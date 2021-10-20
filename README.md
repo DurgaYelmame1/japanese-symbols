@@ -11,3 +11,193 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Japanese Symbols
+- ぁ Hiragana Letter Small A
+- あ Hiragana Letter A
+- ぃ Hiragana Letter Small I
+- い Hiragana Letter I
+- ぅ Hiragana Letter Small U
+- う Hiragana Letter U
+- ぇ Hiragana Letter Small E
+- え Hiragana Letter E
+- ぉ Hiragana Letter Small O
+- お Hiragana Letter O
+- か Hiragana Letter Ka
+- が Hiragana Letter Ga
+- き Hiragana Letter Ki
+- ぎ Hiragana Letter Gi
+- く Hiragana Letter Ku
+- ぐ Hiragana Letter Gu
+- け Hiragana Letter Ke
+- げ Hiragana Letter Ge
+- こ Hiragana Letter Ko
+- ご Hiragana Letter Go
+- さ Hiragana Letter Sa
+- ざ Hiragana Letter Za
+- し Hiragana Letter Si
+- じ Hiragana Letter Zi
+- す Hiragana Letter Su
+- ず Hiragana Letter Zu
+- せ Hiragana Letter Se
+- ぜ Hiragana Letter Ze
+- そ Hiragana Letter So
+- ぞ Hiragana Letter Zo
+- た Hiragana Letter Ta
+- だ Hiragana Letter Da
+- ち Hiragana Letter Ti
+- ぢ Hiragana Letter Di
+- っ Hiragana Letter Small Tu
+- つ Hiragana Letter Tu
+- づ Hiragana Letter Du
+- て Hiragana Letter Te
+- で Hiragana Letter De
+- と Hiragana Letter To
+- ど Hiragana Letter Do
+- な Hiragana Letter Na
+- に Hiragana Letter Ni
+- ぬ Hiragana Letter Nu
+- ね Hiragana Letter Ne
+- の Hiragana Letter No
+- は Hiragana Letter Ha
+- ば Hiragana Letter Ba
+- ぱ Hiragana Letter Pa
+- ひ Hiragana Letter Hi
+- び Hiragana Letter Bi
+- ぴ Hiragana Letter Pi
+- ふ Hiragana Letter Hu
+- ぶ Hiragana Letter Bu
+- ぷ Hiragana Letter Pu
+- へ Hiragana Letter He
+- べ Hiragana Letter Be
+- ぺ Hiragana Letter Pe
+- ほ Hiragana Letter Ho
+- ぼ Hiragana Letter Bo
+- ぽ Hiragana Letter Po
+- ま Hiragana Letter Ma
+- み Hiragana Letter Mi
+- む Hiragana Letter Mu
+- め Hiragana Letter Me
+- も Hiragana Letter Mo
+- ゃ Hiragana Letter Small Ya
+- や Hiragana Letter Ya
+- ゅ Hiragana Letter Small Yu
+- ゆ Hiragana Letter Yu
+- ょ Hiragana Letter Small Yo
+- よ Hiragana Letter Yo
+- ら Hiragana Letter Ra
+- り Hiragana Letter Ri
+- る Hiragana Letter Ru
+- れ Hiragana Letter Re
+- ろ Hiragana Letter Ro
+- ゎ Hiragana Letter Small Wa
+- わ Hiragana Letter Wa
+- ゐ Hiragana Letter Wi
+- ゑ Hiragana Letter We
+- を Hiragana Letter Wo
+- ん Hiragana Letter N
+- ゔ Hiragana Letter Vu
+- ゕ Hiragana Letter Small Ka
+- ゖ Hiragana Letter Small Ke
+-  ゚ Combining Katakana-Hiragana Semi-Voiced Sound Mark
+- ゛ Katakana-Hiragana Voiced Sound Mark
+- ゜ Katakana-Hiragana Semi-Voiced Sound Mark
+- ゝ Hiragana Iteration Mark
+- ゞ Hiragana Voiced Iteration Mark
+- ゟ Hiragana Digraph Yori
+- ゠ Katakana-Hiragana Double Hyphen
+- ァ Katakana Letter Small A
+- ア Katakana Letter A
+- ィ Katakana Letter Small I
+- イ Katakana Letter I
+- ゥ Katakana Letter Small U
+- ウ Katakana Letter U
+- ェ Katakana Letter Small E
+- エ Katakana Letter E
+- ォ Katakana Letter Small O
+- オ Katakana Letter O
+- カ Katakana Letter Ka
+- ガ Katakana Letter Ga
+- キ Katakana Letter Ki
+- ギ Katakana Letter Gi
+- ク Katakana Letter Ku
+- グ Katakana Letter Gu
+- ケ Katakana Letter Ke
+- ゲ Katakana Letter Ge
+- コ Katakana Letter Ko
+- ゴ Katakana Letter Go
+- サ Katakana Letter Sa
+- ザ Katakana Letter Za
+- シ Katakana Letter Si
+- ジ Katakana Letter Zi
+- ス Katakana Letter Su
+- ズ Katakana Letter Zu
+- セ Katakana Letter Se
+- ゼ Katakana Letter Ze
+- ソ Katakana Letter So
+- ゾ Katakana Letter Zo
+- タ Katakana Letter Ta
+- ダ Katakana Letter Da
+- チ Katakana Letter Ti
+- ヂ Katakana Letter Di
+- ッ Katakana Letter Small Tu
+- ツ Katakana Letter Tu
+- ヅ Katakana Letter Du
+- テ Katakana Letter Te
+- デ Katakana Letter De
+- ト Katakana Letter To
+- ド Katakana Letter Do
+- ナ Katakana Letter Na
+- ニ Katakana Letter Ni
+- ヌ Katakana Letter Nu
+- ネ Katakana Letter Ne
+- ノ Katakana Letter No
+- ハ Katakana Letter Ha
+- バ Katakana Letter Ba
+- パ Katakana Letter Pa
+- ヒ Katakana Letter Hi
+- ビ Katakana Letter Bi
+- ピ Katakana Letter Pi
+- フ Katakana Letter Hu
+- ブ Katakana Letter Bu
+- プ Katakana Letter Pu
+- ヘ Katakana Letter He
+- ベ Katakana Letter Be
+- ペ Katakana Letter Pe
+- ホ Katakana Letter Ho
+- ボ Katakana Letter Bo
+- ポ Katakana Letter Po
+- マ Katakana Letter Ma
+- ミ Katakana Letter Mi
+- ム Katakana Letter Mu
+- メ Katakana Letter Me
+- モ Katakana Letter Mo
+- ャ Katakana Letter Small Ya
+- ヤ Katakana Letter Ya
+- ュ Katakana Letter Small Yu
+- ユ Katakana Letter Yu
+- ョ Katakana Letter Small Yo
+- ヨ Katakana Letter Yo
+- ラ Katakana Letter Ra
+- リ Katakana Letter Ri
+- ル Katakana Letter Ru
+- レ Katakana Letter Re
+- ロ Katakana Letter Ro
+- ヮ Katakana Letter Small Wa
+- ワ Katakana Letter Wa
+- ヰ Katakana Letter Wi
+- ヱ Katakana Letter We
+- ヲ Katakana Letter Wo
+- ン Katakana Letter N
+- ヴ Katakana Letter Vu
+- ヵ Katakana Letter Small Ka
+- ヶ Katakana Letter Small Ke
+- ヷ Katakana Letter Va
+- ヸ Katakana Letter Vi
+- ヹ Katakana Letter Ve
+- ヺ Katakana Letter Vo
+- ・ Katakana Middle Dot
+- ー Katakana-Hiragana Prolonged Sound Mark
+- ヽ Katakana Iteration Mark
+- ヾ Katakana Voiced Iteration Mark
+- ヿ Katakana Digraph Koto
+- ㍐ Square Yuan
+- ㍿ Square Corporation
